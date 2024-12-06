@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinyerom1998%2Fhit-counter&count_bg=%231680BA&title_bg=%2364B8B5&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Backend Developer, also interested in Frontend!
-안녕하세요, 항상 새로운 것에 도전하는 백엔드 엔지니어 염진입니다!
+### Backend&AI Developer, also interested in Frontend!
+안녕하세요, 항상 새로운 것에 도전하는 백엔드&AI 엔지니어 염진입니다!
 
 ### SKILLS
 **Langs and Frameworks**  
